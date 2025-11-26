@@ -17,6 +17,5 @@ A PyTorch-based **VAE-Transformer** model for predicting reactants from products
 
 ## Note
 
-The model and the dataset have been compressed for easier upload.
-- **Model:** `Retro-4.zip` (contains `Retro-4.ckpt`)  
+The dataset has been compressed for easier upload. 
 - **Dataset:** `uspto.zip` (contains `uspto.csv`)   
